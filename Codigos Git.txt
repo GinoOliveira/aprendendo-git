@@ -7,3 +7,5 @@ git push >> envia os arquivos
 git remote add origin (url do repositorio) >> aponta repositorio
 git reflog >> ver histórico
 git reset --hard (codigo do reflog)
+git branch staging (criar branch) >> copia segura
+git checkout staging >> mudar a branch
