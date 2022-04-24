@@ -1,1 +1,7 @@
-git init 
+git init  >> criar
+git status >> verificar os arquivos
+git add "nome do arquivo" >> adicionar 1
+git add . >> adiciona todos pendentes
+git commit -m "mensagem"
+git push >> envia os arquivos
+git remote add origin (url do repositorio) >> aponta repositorio
