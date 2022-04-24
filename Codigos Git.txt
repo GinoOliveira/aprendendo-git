@@ -9,3 +9,6 @@ git reflog >> ver histórico
 git reset --hard (codigo do reflog)
 git branch staging (criar branch) >> copia segura
 git checkout staging >> mudar a branch
+git pull >> trazer do servidor para a maquina
+git merge (nome da branch) >> dar merge 
+
