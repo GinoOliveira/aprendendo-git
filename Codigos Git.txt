@@ -13,6 +13,7 @@ git pull >> trazer do servidor para a maquina
 git merge (nome da branch) >> dar merge 
 git pull request
 touch .gitignore >> ignora pastas e arquivos
+
 Real
 git pull
 git checkout -b sistema-de-login master
